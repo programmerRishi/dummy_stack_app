@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "title":"Shubhram",
+    "description": "Shubhram lives in Agra. His roll no is 84"
+
+  },
+  {
+    "id": 1,
+    "title": "Karan",
+    "description": "Karan lives in India. He has no fixed place to live."
+  },
+  {
+    "id": 2,
+    "title": "Vinay",
+    "description": "Vinay lives in deoria. He is my roommate."
+  },
+  {
+    "id": 3,
+    "title": "Shubham Verma",
+    "description": "He lives in Mirzapur district. He takes bath often."
+  },
+  {
+    "id": 4,
+    "title": "Shraddha",
+    "description": "She lives in Gorakhpur. She is the social butterfly of chakrapanpur.She played the role of Mrs.Sarabhai."
+  },
+  {
+    "id": 5,
+    "title": "Shweta",
+    "description": "She lives in Allahabad. She is an Ahiri."
+  },
+  {
+    "id": 6,
+    "title": "Akshita",
+    "description": "She is lives in jhansi and she is my sister."
+  },
+  {
+    "id": 7,
+    "title": "Roopam",
+    "description": "She is lives in Varanasi. Her nickname is motu."
+  }
+
+]
